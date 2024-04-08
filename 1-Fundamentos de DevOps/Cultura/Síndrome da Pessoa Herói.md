@@ -1,0 +1,2 @@
+- Pessoa que você depende em fluxos criticos
+- Para resolver isso é preciso uma melhor documentação, principalmente para fluxos legados e não bem documentados
