@@ -69,3 +69,23 @@
 ```bash
 docker image <comando>
 ```
+
+- Para lidar com containers docker
+
+```bash
+docker container <comando>
+```
+
+- Docker Build
+  - Cria a imagem docker
+
+```bash
+docker build .
+```
+
+- Docker Run
+  - Executa a imagem docker
+
+```bash
+docker run <nome da imagem>
+```
